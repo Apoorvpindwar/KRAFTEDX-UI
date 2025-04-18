@@ -2,7 +2,8 @@
 
 A modern Next.js application with SuperTokens authentication, interactive background effects, and responsive UI components.
 
-![App Screenshot] (/pics/Screenshot 2025-04-19 at 1.47.35 AM.png) 
+## screenshot 
+https://drive.google.com/file/d/1CO-MepO-9nqghF8ompHIvX6pP8bFZIo_/view?usp=sharing
 
 ## Features 🚀
 
