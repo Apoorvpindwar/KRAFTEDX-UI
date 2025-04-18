@@ -51,21 +51,19 @@ Authentication: SuperTokens
 Styling: Framer Motion
 
 Project Structure 📂
-csharp
-Copy
-Edit
+
 KRAFTEDX-UI/
 ├── app/
-│   ├── auth/               # Authentication routes
-│   ├── dashboard/          # Protected routes
-│   └── layout.tsx          # Root layout
+│   ├── auth/              
+│   ├── dashboard/          
+│   └── layout.tsx          
 ├── components/
-│   ├── auth/               # Auth components
-│   ├── ui/                 # UI primitives
-│   └── InteractiveBackground.tsx # Dynamic background
+│   ├── auth/              
+│   ├── ui/                
+│   └── InteractiveBackground.tsx 
 ├── lib/
-│   └── supertokensConfig/  # Auth configuration
-└── public/                 # Static assets
+│   └── supertokensConfig/  
+└── public/                 
 Configuration ⚙️
 Set these environment variables in .env.local:
 
